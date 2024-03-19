@@ -13,7 +13,7 @@ chmod r+u set_up_sui_blockchain.sh
 
 ### run the scrip to download the required libs and sui
 ```
-set_up_sui_blockchain.sh
+./set_up_sui_blockchain.sh
 ```
 
 ### check the version of the sui by 
